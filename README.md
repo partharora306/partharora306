@@ -1,4 +1,4 @@
-                    ### Hi there, I'm Parth Arora 👋
+   ### Hi there, I'm Parth Arora 👋
 
 
 - 🔭 I’m currently working on full stack development
