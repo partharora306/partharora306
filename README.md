@@ -13,7 +13,7 @@
 
 <a href="https://www.linkedin.com/in/parth-arora-9271011b1/" ><img align="left" alt="Linkedin" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/> </a>
 <a href="https://twitter.com/parth_306"><img align="left" alt="Twitter" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg"/></a>
-Or drop me a mail at 📫 : <a href="arora.parth7306@gmail.com">arora.parth7306@gmail.com</a>
+<b>Or drop me a mail at 📫 : <a href="arora.parth7306@gmail.com">arora.parth7306@gmail.com</a></b>
 <br/>
 
 
@@ -34,5 +34,7 @@ Or drop me a mail at 📫 : <a href="arora.parth7306@gmail.com">arora.parth7306@
  <a href="https://expressjs.com" target="_blank"> <img align="left" alt="Express" width="28px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png" /> </a>
 <a href="https://www.mysql.com/" target="_blank"><img align="left" alt="MySQL" width="28px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" /></a>
 <a href="https://www.mongodb.com/" target="_blank"> <img align="left" alt="MongoDB" width="28px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" /> </a>
-<a href="https://code.visualstudio.com/" target="_blank"> <img align="left" alt="Visual Studio Code" width="28px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" /></a></p>
+<a href="https://www.eclipse.org/ide/" target="_blank"> <img align="left" alt="Eclipse" width="28px" src="https://user-images.githubusercontent.com/11943860/46922575-7017cf80-cfe1-11e8-845a-0cd198fb546c.png" /></a>
+<a href="https://code.visualstudio.com/" target="_blank"> <img align="left" alt="Visual Studio Code" width="28px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" /></a>
+</p>
    
