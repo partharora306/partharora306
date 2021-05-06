@@ -11,8 +11,8 @@
 <h3>Connect with me:</h3>
 
 
-<a href="https://www.linkedin.com/in/parth-arora-9271011b1/" ><img align="left" alt="Linkedin" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/> </a>
-<a href="https://twitter.com/parth_306"><img align="left" alt="Twitter" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg"/></a>
+<a href="https://www.linkedin.com/in/parth-arora-9271011b1/" ><img align="left" alt="Linkedin" width="26px" src="https://edent.github.io/SuperTinyIcons/images/svg/linkedin.svg"/> </a>
+<a href="https://twitter.com/parth_306"><img align="left" alt="Twitter" width="26px" src="https://edent.github.io/SuperTinyIcons/images/svg/twitter.svg"/></a>
 <b>Or drop me a mail at 📫 : <a href="arora.parth7306@gmail.com">arora.parth7306@gmail.com</a></b>
 <br/>
 
