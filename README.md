@@ -4,6 +4,8 @@
 
 - 🔭 I’m currently working on Full Stack Development
 - 👯 I’m looking to collaborate with reputed firm
+- 💬 Ask me anything under my scope
+- 😄 Pronouns: He/His
 
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=partharora306&show_icons=true&locale=en&theme=radical)  
