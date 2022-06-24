@@ -1,4 +1,4 @@
-   <h1 align="center">Hi there, I'm Parth Arora <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
+   <h1 align="center">Hi there, I'm Parth Arora 👋</h1>
 
 
 
