@@ -10,7 +10,6 @@
 - 😄 Pronouns: He/His
 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=partharora306&show_icons=true&locale=en&theme=radical)  
 
 <h3>Connect with me:</h3>
 
