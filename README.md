@@ -2,7 +2,7 @@
 
 
 
-- 🔭 My Current Tech Stack : React, Angular, NextJS, JavaScript, TypeScript, Material UI, REST APIs, GraphQL, Webpack, CI/CD, Git
+- 🔭 My Current Tech Stack : React, Angular, NextJS, JavaScript, TypeScript, Material UI, Webpack, CI/CD
 - 👯 Always Open for Collaboration with Other Devs as a part of building my own Experience
 - 🥅 Goals: Grow every day!
 - 💬 Ask me anything under my scope
