@@ -2,10 +2,9 @@
 
 
 
-- 🔭 My Current Tech Stack : React, Angular, NextJS, JavaScript, TypeScript, Bootstrap, Material Design, Tailwind, Webpack
+- 🔭 My Current Tech Stack : React, Angular, NextJS, JavaScript, TypeScript, Material UI, REST APIs, GraphQL, Webpack, CI/CD, Git
 - 👯 Always Open for Collaboration with Other Devs as a part of building my own Experience
 - 🥅 Goals: Grow every day!
-- ⚡ Fun Fact: I love to have a Background Music at my Workspace though my Boss doesn't like :)
 - 💬 Ask me anything under my scope
 - 😄 Pronouns: He/His
 
